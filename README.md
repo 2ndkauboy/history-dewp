@@ -29,7 +29,7 @@ Organisiert von WordPress Deutschland
 Organisiert von WordPress Deutschland
 
 ## Rise of the Meetups
-Im Nachgang vom Camp in Köln werden viele Meetups gegründet. Vor allem Potsdam/Berlin und Hamburg sind früh dabei.
+Im Nachgang vom Camp in Köln werden viele Meetups gegründet. Vor allem Potsdam und Hamburg sind früh dabei.
 
 ## WP Camps 2012+2013
 Weil die "Guidelines" für die Organisatoren vom Meetup Potsdam zu restriktiv waren, wird anstatt ein "offizielles" WordCamp, ein WP Camp organisiert (Nur noch über WayBack-Machine verfügbar).
